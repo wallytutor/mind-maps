@@ -1,19 +1,19 @@
-<mxfile host="Electron" modified="2023-11-07T05:51:36.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="PL5fcXVVjUz7mtaf-OY5" version="22.0.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-14T06:37:33.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kb6zWIrnl7UavWaeWdhM" version="22.1.0" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
-    <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3hXHIrawqCX14PC-SLRN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="3hXHIrawqCX14PC-SLRN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-7">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-15">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-20">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3hXHIrawqCX14PC-SLRN-1" target="TqPIP2dE-nrRqcoiC80p-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hXHIrawqCX14PC-SLRN-1" value="Quantum mechanics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -22,60 +22,109 @@
         <mxCell id="3hXHIrawqCX14PC-SLRN-2" value="Molecules energy: translation, rotation, vibration, electrons" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2600" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-1" target="TqPIP2dE-nrRqcoiC80p-2">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-1" target="TqPIP2dE-nrRqcoiC80p-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-1" target="TqPIP2dE-nrRqcoiC80p-3">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-1" target="TqPIP2dE-nrRqcoiC80p-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-1" value="Classical Mechanics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-1" value="Classical Mechanics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-2" value="Kinematics: mathematical description of movement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-2" value="Kinematics: mathematical description of movement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="1510" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-3" value="Dynamics: explanation of movement origins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-3" value="Dynamics: explanation of movement origins" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1780" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-6" target="TqPIP2dE-nrRqcoiC80p-13">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-6" target="TqPIP2dE-nrRqcoiC80p-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-6" value="Electrons: Born-Oppenheimer approximation lead to time-independent Schroedinger equation - DFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-6" value="Electrons: Born-Oppenheimer approximation lead to time-independent Schroedinger equation - DFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2070" y="1440" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-7" target="TqPIP2dE-nrRqcoiC80p-6">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-7" target="TqPIP2dE-nrRqcoiC80p-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-7" target="TqPIP2dE-nrRqcoiC80p-10">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-7" target="TqPIP2dE-nrRqcoiC80p-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-7" value="Modeling scales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-7" value="Modeling scales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-10" value="Ions are represented in the framework of classical mechanics - MD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-10" value="Ions are represented in the framework of classical mechanics - MD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="1440" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-13" value="For DFT: need operators position and momentum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-13" value="For DFT: need operators position and momentum" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2050" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-15" target="TqPIP2dE-nrRqcoiC80p-16">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TqPIP2dE-nrRqcoiC80p-15" target="TqPIP2dE-nrRqcoiC80p-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TqPIP2dE-nrRqcoiC80p-15" target="TqPIP2dE-nrRqcoiC80p-23">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TqPIP2dE-nrRqcoiC80p-15" target="TqPIP2dE-nrRqcoiC80p-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-15" value="Concepts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-15" value="Concepts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-16" value="Hermitian operators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-16" value="Hermitian operators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2150" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-20" value="Karplus (1970), Atoms and Molecules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-20" value="Karplus (1970), Atoms and Molecules" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1900" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqPIP2dE-nrRqcoiC80p-23" value="Hamiltonian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqPIP2dE-nrRqcoiC80p-23" value="Hamiltonian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-1" target="7mW2jRSYt9szHhjCyHMU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-1" target="7mW2jRSYt9szHhjCyHMU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-1" target="7mW2jRSYt9szHhjCyHMU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-1" value="Julia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Basics" link="https://juliaacademy.com/courses/enrolled/375479" linkTarget="_blank" id="7mW2jRSYt9szHhjCyHMU-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2980" y="1740" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Parallel&lt;br&gt;computing" link="https://juliaacademy.com/courses/enrolled/552107" linkTarget="_blank" id="7mW2jRSYt9szHhjCyHMU-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2980" y="2030" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-7" target="7mW2jRSYt9szHhjCyHMU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-7" target="7mW2jRSYt9szHhjCyHMU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-7" value="Packaging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7mW2jRSYt9szHhjCyHMU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="7mW2jRSYt9szHhjCyHMU-9" target="7mW2jRSYt9szHhjCyHMU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Documenter.jl" link="https://documenter.juliadocs.org/stable/" linkTarget="_blank" id="7mW2jRSYt9szHhjCyHMU-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2580" y="2190" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pkg.jl" link="https://pkgdocs.julialang.org/v1/" linkTarget="_blank" id="7mW2jRSYt9szHhjCyHMU-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2770" y="2190" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GitHub Actions" link="https://docs.github.com/en/actions/learn-github-actions" linkTarget="_blank" id="7mW2jRSYt9szHhjCyHMU-13">
+          <mxCell style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+            <mxGeometry x="2360" y="2270" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
