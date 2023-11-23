@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T14:50:01.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CYl0gspUNTPd8tHmJXHY" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T08:02:37.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aZTAqqfq2nJsAI4-o_OO" version="22.1.3" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -310,6 +310,20 @@
         <UserObject label="Hanein (2017)" link="https://doi.org/10.1080/17436753.2017.1303261" linkTarget="_blank" id="tdlnybzZ0rQNsdedE5Ah-52">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1810" y="2640" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tdlnybzZ0rQNsdedE5Ah-55" value="Solids kinetics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdlnybzZ0rQNsdedE5Ah-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdlnybzZ0rQNsdedE5Ah-56" target="tdlnybzZ0rQNsdedE5Ah-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdlnybzZ0rQNsdedE5Ah-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdlnybzZ0rQNsdedE5Ah-56" target="tdlnybzZ0rQNsdedE5Ah-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Arcenegui-Troya(2021)" link="https:// doi.org/10.3390/pr9101852" linkTarget="_blank" id="tdlnybzZ0rQNsdedE5Ah-56">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1280" y="1990" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
