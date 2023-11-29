@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:03:36.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XUwALDDp3rC1oM7gve0q" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:05:44.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="44eAbQdKsFtTicbwuB9t" version="22.1.4" type="github">
   <diagram name="Page-1" id="ShheRPUKKzBshwlSDHYq">
     <mxGraphModel dx="1121" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -115,8 +115,20 @@
         <mxCell id="P_ZGVv6pG1mM6uEF-SW_-37" value="Packed beds with heat transfer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P_ZGVv6pG1mM6uEF-SW_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_ZGVv6pG1mM6uEF-SW_-40" target="P_ZGVv6pG1mM6uEF-SW_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_ZGVv6pG1mM6uEF-SW_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_ZGVv6pG1mM6uEF-SW_-40" target="P_ZGVv6pG1mM6uEF-SW_-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P_ZGVv6pG1mM6uEF-SW_-40" value="Scientific computing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_ZGVv6pG1mM6uEF-SW_-42" value="Opportunities assessment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_ZGVv6pG1mM6uEF-SW_-44" value="Support HR in recruiting process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
