@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T20:44:28.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sZO9u0lmavYCierNboZZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T20:52:45.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qoNh_WktsU4Xb8eZga8_" version="22.1.5" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
     <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -429,6 +429,16 @@
         <UserObject label="Thermodynamics of materials (2021)" link="https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/" linkTarget="_blank" id="CWGAY0bIbkOi0LySRLev-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="3080" y="2520" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Introduction to network models (2018)" link="https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/" linkTarget="_blank" id="CWGAY0bIbkOi0LySRLev-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2870" y="2270" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Calculus with theory (2010)" link="https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/" linkTarget="_blank" id="CWGAY0bIbkOi0LySRLev-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2870" y="2190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
