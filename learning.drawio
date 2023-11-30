@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T10:24:42.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nMW6ZWRninDmccOKzO9g" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T10:27:12.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PyZgbBTO6Y7f_cdmnDhL" version="22.1.5" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QDy-FQWbMPKasR52hYSL-2" value="To review" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDy-FQWbMPKasR52hYSL-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QDy-FQWbMPKasR52hYSL-3" target="QDy-FQWbMPKasR52hYSL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -138,16 +138,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QDy-FQWbMPKasR52hYSL-3" value="Granular heat transfer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1760" width="80" height="80" as="geometry" />
+          <mxGeometry x="1030" y="1620" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Nemati, 2021" link="https://1drv.ms/b/s!Ar4x-UlrYAiZjv4O83J4rxP3v68lgA?e=0grBoP" linkTarget="_blank" id="QDy-FQWbMPKasR52hYSL-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1290" y="1740" width="120" height="60" as="geometry" />
+            <mxGeometry x="1170" y="1600" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Oii (project leader)" link="https://www.eng.ed.ac.uk/research/projects/multi-scale-approach-characterising-fluid-contribution-conductive-heat-transfer" linkTarget="_blank" id="QDy-FQWbMPKasR52hYSL-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1290" y="1820" width="120" height="60" as="geometry" />
+            <mxGeometry x="1170" y="1680" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tdlnybzZ0rQNsdedE5Ah-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdlnybzZ0rQNsdedE5Ah-1" target="tdlnybzZ0rQNsdedE5Ah-22" edge="1">
@@ -289,7 +289,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="tdlnybzZ0rQNsdedE5Ah-55" value="Solids kinetics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1910" width="120" height="80" as="geometry" />
+          <mxGeometry x="1520" y="1780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdlnybzZ0rQNsdedE5Ah-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tdlnybzZ0rQNsdedE5Ah-56" target="tdlnybzZ0rQNsdedE5Ah-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -299,7 +299,7 @@
         </mxCell>
         <UserObject label="Arcenegui-Troya(2021)" link="https:// doi.org/10.3390/pr9101852" linkTarget="_blank" id="tdlnybzZ0rQNsdedE5Ah-56">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="1280" y="1920" width="120" height="60" as="geometry" />
+            <mxGeometry x="1090" y="1960" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tdlnybzZ0rQNsdedE5Ah-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tdlnybzZ0rQNsdedE5Ah-59" target="tdlnybzZ0rQNsdedE5Ah-1" edge="1">
@@ -348,11 +348,22 @@
         <mxCell id="tdlnybzZ0rQNsdedE5Ah-70" value="Lecomte (2004)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zyr4BZ1Q4nSmmZ4n6RKA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Zyr4BZ1Q4nSmmZ4n6RKA-1" target="tdlnybzZ0rQNsdedE5Ah-1">
+        <mxCell id="Zyr4BZ1Q4nSmmZ4n6RKA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Zyr4BZ1Q4nSmmZ4n6RKA-1" target="tdlnybzZ0rQNsdedE5Ah-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zyr4BZ1Q4nSmmZ4n6RKA-1" value="Thomas (2010)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zyr4BZ1Q4nSmmZ4n6RKA-1" value="Thomas (2010)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKSYJBpqH4JwEt-eYhXz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="oKSYJBpqH4JwEt-eYhXz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKSYJBpqH4JwEt-eYhXz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oKSYJBpqH4JwEt-eYhXz-1" target="tdlnybzZ0rQNsdedE5Ah-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKSYJBpqH4JwEt-eYhXz-1" value="Kissinger (1957)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
