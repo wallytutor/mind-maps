@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T08:32:24.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JsbfHxA-JT_wESwJnfkJ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T08:35:37.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EmsgxQUa4z-Tq15CP01e" version="22.1.5" type="github">
   <diagram name="Page-1" id="x5J1sQV5GpxVPcckxnvj">
     <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -838,7 +838,7 @@
         <mxCell id="QRWuIck3U1smzIBxc6KD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-269" target="QRWuIck3U1smzIBxc6KD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Palabos (dead?)" link="https://palabos.unige.ch/" linkTarget="_blank" id="EgJ6nwJVjVo9zUgUzeZK-269">
+        <UserObject label="Palabos (dead?)" link="https://gitlab.com/unigehpfs/palabos" linkTarget="_blank" id="EgJ6nwJVjVo9zUgUzeZK-269">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2480" y="600" width="120" height="60" as="geometry" />
           </mxCell>
