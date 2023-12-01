@@ -1,16 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T10:28:25.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="guTIlFu9bYLuAPUtEyVB" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T10:43:00.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PPHy2tT4V8JSgyiYQw_-" version="22.1.5" type="github">
   <diagram name="Page-1" id="x5J1sQV5GpxVPcckxnvj">
     <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EgJ6nwJVjVo9zUgUzeZK-253" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-240" target="EgJ6nwJVjVo9zUgUzeZK-246" edge="1">
+        <mxCell id="EgJ6nwJVjVo9zUgUzeZK-253" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-240" target="EgJ6nwJVjVo9zUgUzeZK-246" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="1480" />
               <mxPoint x="2120" y="1480" />
               <mxPoint x="2120" y="2180" />
-              <mxPoint x="2680" y="2180" />
+              <mxPoint x="2540" y="2180" />
+              <mxPoint x="2540" y="2230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -595,10 +596,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-172" value="Modelica" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="2100" width="120" height="80" as="geometry" />
+          <mxGeometry x="2530" y="2080" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-174" value="OpenModelica" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="2110" width="120" height="60" as="geometry" />
+          <mxGeometry x="2710" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-176" value="ModelingToolkit.jl" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2360" y="2100" width="120" height="60" as="geometry" />
@@ -787,13 +788,22 @@
         </UserObject>
         <UserObject label="OpenTURNS" link="https://openturns.github.io/www/" id="EgJ6nwJVjVo9zUgUzeZK-246">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="2620" y="2220" width="120" height="60" as="geometry" />
+            <mxGeometry x="2620" y="2200" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-250" target="EgJ6nwJVjVo9zUgUzeZK-246" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-250" target="EgJ6nwJVjVo9zUgUzeZK-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRWuIck3U1smzIBxc6KD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-250" target="QRWuIck3U1smzIBxc6KD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRWuIck3U1smzIBxc6KD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-250" target="QRWuIck3U1smzIBxc6KD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRWuIck3U1smzIBxc6KD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-250" target="QRWuIck3U1smzIBxc6KD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-250" value="Statistics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -946,6 +956,21 @@
         <UserObject label="TChem" link="https://github.com/sandialabs/TChem" linkTarget="_blank" id="QRWuIck3U1smzIBxc6KD-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="2270" y="1040" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JMP" link="https://www.jmp.com/" linkTarget="_blank" id="QRWuIck3U1smzIBxc6KD-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2800" y="2350" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Minitab" link="https://www.minitab.com/" linkTarget="_blank" id="QRWuIck3U1smzIBxc6KD-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2800" y="2260" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Knime" link="https://www.knime.com/" linkTarget="_blank" id="QRWuIck3U1smzIBxc6KD-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2960" y="2300" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
