@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T09:28:23.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I5D24S57SB39WCqEb6Mt" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T08:12:43.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8GOdbsRxYZwH_3dFVc5E" version="22.1.5" type="github">
   <diagram name="Page-1" id="x5J1sQV5GpxVPcckxnvj">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,6 +424,9 @@
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-96" target="EgJ6nwJVjVo9zUgUzeZK-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WS_2B6I2bMhV0dsmyz9m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-96" target="WS_2B6I2bMhV0dsmyz9m-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-96" value="Computational chemistry" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2088" y="1430" width="120" height="80" as="geometry" />
         </mxCell>
@@ -437,7 +440,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-108" value="Molecular dynamics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2378" y="1380" width="120" height="80" as="geometry" />
+          <mxGeometry x="2380" y="1350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-109" value="VASP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2570" y="1360" width="120" height="60" as="geometry" />
@@ -449,7 +452,7 @@
           <mxGeometry x="2570" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-116" value="DFT" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="1540" width="120" height="80" as="geometry" />
+          <mxGeometry x="2380" y="1450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-118" value="ITASCA suite" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2932" y="815" width="120" height="60" as="geometry" />
@@ -1025,6 +1028,11 @@
         <UserObject label="RapidMiner" link="https://rapidminer.com/" linkTarget="_blank" id="QRWuIck3U1smzIBxc6KD-18">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="2960" y="2170" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PySCF" link="https://pyscf.org/" linkTarget="_blank" id="WS_2B6I2bMhV0dsmyz9m-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="2281" y="1540" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
