@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T18:18:00.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IonHqQk0GZeT09f7Lfvl" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T18:25:24.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zzzmDo6rIx3t-G07pqX9" version="22.1.11" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
     <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -704,6 +704,18 @@
             <mxGeometry x="3270" y="3370" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="tayrchdnbF2UK3ZBhtBg-22" value="Clouds of droplets/particles, soved by concentration. Dense sprays, high load particle laden flows, liquid combustion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="3170" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tayrchdnbF2UK3ZBhtBg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tayrchdnbF2UK3ZBhtBg-17" target="tayrchdnbF2UK3ZBhtBg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tayrchdnbF2UK3ZBhtBg-24" value="Dispersed droplets/particles. Better suited for secondary breakuo, dilute sprays, low load particle flows." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="3035" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tayrchdnbF2UK3ZBhtBg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tayrchdnbF2UK3ZBhtBg-16" target="tayrchdnbF2UK3ZBhtBg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
