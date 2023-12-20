@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T15:23:38.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vlvy3nS02eEA50K0gsCH" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T15:25:15.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uXEzPDGSidmkzELKiSng" version="22.1.11" type="github">
   <diagram name="Page-1" id="x5J1sQV5GpxVPcckxnvj">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -60,6 +60,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="EgJ6nwJVjVo9zUgUzeZK-258" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-1" value="Scientific Computing Software" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -1109,6 +1115,16 @@
         <UserObject label="Gridap.jl" link="https://gridap.github.io/Gridap.jl/stable/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1670" y="1180" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SOFA" link="https://www.sofa-framework.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1860" y="1620" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="preCICE" link="https://precice.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-14">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1860" y="1550" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
