@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T11:35:32.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3A3Pkx-thbHlfB8_abEp" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T12:48:07.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hEVfIJnVUveEdmDUZj80" version="22.1.11" type="github">
   <diagram name="Page-1" id="tNx86WEGERc1XLciAWc1">
     <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -832,6 +832,14 @@
           <mxGeometry width="410" height="720" as="geometry">
             <mxRectangle x="4150" y="3000" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <UserObject label="MP-PIC" link="https://en.wikipedia.org/wiki/Multiphase_particle-in-cell_method" linkTarget="_blank" id="tayrchdnbF2UK3ZBhtBg-82">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="3160" y="3250" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tayrchdnbF2UK3ZBhtBg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tayrchdnbF2UK3ZBhtBg-16" target="tayrchdnbF2UK3ZBhtBg-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
