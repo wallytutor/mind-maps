@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T15:25:15.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uXEzPDGSidmkzELKiSng" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T06:42:47.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PIXwjj88xMW_2bqIQS_n" version="22.1.16" type="github">
   <diagram name="Page-1" id="x5J1sQV5GpxVPcckxnvj">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="EgJ6nwJVjVo9zUgUzeZK-258" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-13">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-14">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-1" target="N9rWTj0DpTcnLUlTkTwP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-1" value="Scientific Computing Software" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -208,23 +208,28 @@
         <mxCell id="WS_2B6I2bMhV0dsmyz9m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="WS_2B6I2bMhV0dsmyz9m-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-6">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-4">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-3">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-2">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-5">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N9rWTj0DpTcnLUlTkTwP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-1">
+        <mxCell id="N9rWTj0DpTcnLUlTkTwP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="N9rWTj0DpTcnLUlTkTwP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ABh_CdIyXN_Odq0Rybgc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgJ6nwJVjVo9zUgUzeZK-20" target="ABh_CdIyXN_Odq0Rybgc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EgJ6nwJVjVo9zUgUzeZK-20" value="FEA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1670" y="1020" width="120" height="80" as="geometry" />
@@ -1088,43 +1093,48 @@
           </mxCell>
         </UserObject>
         <UserObject label="Firedrake" link="https://www.firedrakeproject.org/download.html" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1390" y="885" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="deal.ii" link="https://www.dealii.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1260" y="1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="MoFEM" link="https://mofem.eng.gla.ac.uk/mofem/html/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-3">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1390" y="1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="FEBio" link="https://febio.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1520" y="1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CALCULIX" link="http://www.calculix.de/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1130" y="1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Gridap.jl" link="https://gridap.github.io/Gridap.jl/stable/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1670" y="1180" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SOFA" link="https://www.sofa-framework.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-13">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1860" y="1620" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="preCICE" link="https://precice.org/" linkTarget="_blank" id="N9rWTj0DpTcnLUlTkTwP-14">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1860" y="1550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ferrite.jl" link="https://ferrite-fem.github.io/Ferrite.jl/stable/" linkTarget="_blank" id="ABh_CdIyXN_Odq0Rybgc-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1670" y="1260" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
